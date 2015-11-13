@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 15, 2015, 10:45:34 AM
+    Author     : phil.nelson
+*/
+
+.hidden {
+    display: none;
+}
+
+.requiredred {
+    color:red;
+} 
+
+.optional {
+    color:black;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.42857;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none
+}
+.btn-primary {
+    color: #fff;
+    background-color: #22bbb8;
+    border-color: #1ea5a3
+}
+.navbar-btn {
+    margin-top: 7px;
+    margin-bottom: 7px
+}
+.janrain-icon-dashboard:before {
+    content: "\f110"
+}
