@@ -77,6 +77,9 @@ and open the template in the editor.
                     <div id="isTempToken">
                         <label class="requiredred" for="IsTempToken">Is Temp Token</label> <input type="checkbox" id="IsTempToken" name="IsTempToken" value="true" />
                     </div>
+                    <div id="last4SSN">
+                        <label class="optional" for="Last4SSN">Last 4 SSN:</label> <input type="text" id="Last4SSN" name="Last4SSN" />
+                    </div>
                     <div id="monthOfBirth">
                         <label class="optional" for="MonthOfBirth">Month of Birth:</label> <input type="text" id="MonthOfBirth" name="MonthOfBirth" />
                     </div>
